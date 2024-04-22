@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MyTextViewStyle">
+        <item name="android:textSize">10px</item>
+        <item name="android:typeface">monospace</item>
+        <item name="android:fontFamily">@font/poppins</item>
+    </style>
+</resources>
